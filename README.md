@@ -4,7 +4,7 @@
 Find the built Project under: Project Damp\Builds\Nautilus_FinalBuild
 
 
-#Controls
+# Controls
 Diver Controls
 Movement: A & D
 Climb Ladder: Space
