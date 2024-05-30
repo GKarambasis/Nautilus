@@ -1,0 +1,249 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1715101282780263, "dur":51, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715101282780377, "dur":53612, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715101282833998, "dur":870, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715101282834928, "dur":108, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1715101282835037, "dur":467, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715101282835667, "dur":131, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1715101282835838, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/level0.resS" }}
+,{ "pid":12345, "tid":0, "ts":1715101282835941, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/level1.resS" }}
+,{ "pid":12345, "tid":0, "ts":1715101282835997, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/resources.assets" }}
+,{ "pid":12345, "tid":0, "ts":1715101282836152, "dur":103, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1715101282836293, "dur":102, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1715101282836855, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"UnityLinker C:/Users/maste/University - Masters/1. Connected Games Development/Project Damp/Unity Project/Project Damp/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":0, "ts":1715101282837156, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101282837377, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/PhotonUnityNetworking.Demos.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101282837633, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101282837903, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101282838176, "dur":103, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101282839304, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.CommandStateObserverModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101282839453, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101282839843, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101282840122, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101282840400, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101282841542, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101282841815, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101282842209, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101282842290, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101282842527, "dur":98, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/websocket-sharp.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101282844276, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.HotReloadModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1715101282845874, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UIModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1715101282846039, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityConnectModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1715101282846165, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1715101282846351, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityWebRequestWWWModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1715101282846499, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.VFXModule.pdb" }}
+,{ "pid":12345, "tid":0, "ts":1715101282846772, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1715101282835534, "dur":12484, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715101282848026, "dur":3234602, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715101286082632, "dur":140, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715101286082772, "dur":230, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715101286083003, "dur":59, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715101286083241, "dur":66, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715101286083338, "dur":11491, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1715101282835944, "dur":12092, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715101282848040, "dur":27015, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715101282875076, "dur":173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/12288941508314304382.rsp" }}
+,{ "pid":12345, "tid":1, "ts":1715101282878401, "dur":2132, "ph":"X", "name": "WriteResponseFile",  "args": { "detail":"Library/Bee/artifacts/rsp/12288941508314304382.rsp" }}
+,{ "pid":12345, "tid":1, "ts":1715101282881105, "dur":276, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maste\\University - Masters\\1. Connected Games Development\\Project Damp\\Unity Project\\Project Damp\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101282881391, "dur":206, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maste\\University - Masters\\1. Connected Games Development\\Project Damp\\Unity Project\\Project Damp\\Library\\Bee\\PlayerScriptAssemblies\\CFXRRuntime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101282881606, "dur":198, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maste\\University - Masters\\1. Connected Games Development\\Project Damp\\Unity Project\\Project Damp\\Library\\Bee\\PlayerScriptAssemblies\\PhotonChat.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101282881815, "dur":303, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maste\\University - Masters\\1. Connected Games Development\\Project Damp\\Unity Project\\Project Damp\\Library\\Bee\\PlayerScriptAssemblies\\PhotonRealtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101282882128, "dur":349, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maste\\University - Masters\\1. Connected Games Development\\Project Damp\\Unity Project\\Project Damp\\Library\\Bee\\PlayerScriptAssemblies\\PhotonUnityNetworking.Demos.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101282882487, "dur":329, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maste\\University - Masters\\1. Connected Games Development\\Project Damp\\Unity Project\\Project Damp\\Library\\Bee\\PlayerScriptAssemblies\\PhotonUnityNetworking.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101282882827, "dur":230, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maste\\University - Masters\\1. Connected Games Development\\Project Damp\\Unity Project\\Project Damp\\Library\\Bee\\PlayerScriptAssemblies\\PhotonUnityNetworking.Utilities.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101282883063, "dur":206, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maste\\University - Masters\\1. Connected Games Development\\Project Damp\\Unity Project\\Project Damp\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101282883277, "dur":216, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maste\\University - Masters\\1. Connected Games Development\\Project Damp\\Unity Project\\Project Damp\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101282883499, "dur":723, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maste\\University - Masters\\1. Connected Games Development\\Project Damp\\Unity Project\\Project Damp\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101282884228, "dur":389, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maste\\University - Masters\\1. Connected Games Development\\Project Damp\\Unity Project\\Project Damp\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101282884630, "dur":1149, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maste\\University - Masters\\1. Connected Games Development\\Project Damp\\Unity Project\\Project Damp\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101282885794, "dur":782, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maste\\University - Masters\\1. Connected Games Development\\Project Damp\\Unity Project\\Project Damp\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101282886586, "dur":210, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maste\\University - Masters\\1. Connected Games Development\\Project Damp\\Unity Project\\Project Damp\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101282886805, "dur":548, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maste\\University - Masters\\1. Connected Games Development\\Project Damp\\Unity Project\\Project Damp\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101282888565, "dur":187, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maste\\University - Masters\\1. Connected Games Development\\Project Damp\\Unity Project\\Project Damp\\Library\\Bee\\artifacts\\UnityLinkerInputs\\MethodsToPreserve.xml" }}
+,{ "pid":12345, "tid":1, "ts":1715101282888758, "dur":168, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maste\\University - Masters\\1. Connected Games Development\\Project Damp\\Unity Project\\Project Damp\\Library\\Bee\\artifacts\\UnityLinkerInputs\\TypesInScenes.xml" }}
+,{ "pid":12345, "tid":1, "ts":1715101282888931, "dur":147, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maste\\University - Masters\\1. Connected Games Development\\Project Damp\\Unity Project\\Project Damp\\Library\\Bee\\artifacts\\UnityLinkerInputs\\SerializedTypes.xml" }}
+,{ "pid":12345, "tid":1, "ts":1715101282889088, "dur":333, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\maste\\University - Masters\\1. Connected Games Development\\Project Damp\\Unity Project\\Project Damp\\Library\\Bee\\artifacts\\UnityLinkerInputs\\EditorToUnityLinkerData.json" }}
+,{ "pid":12345, "tid":1, "ts":1715101282890342, "dur":65664, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\rsp\\12288941508314304382.rsp" }}
+,{ "pid":12345, "tid":1, "ts":1715101282880536, "dur":75472, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker C:/Users/maste/University - Masters/1. Connected Games Development/Project Damp/Unity Project/Project Damp/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":1, "ts":1715101282958349, "dur":802, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715101282959174, "dur":142, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715101283069933, "dur":2966318, "ph":"X", "name": "UnityLinker",  "args": { "detail":"C:/Users/maste/University - Masters/1. Connected Games Development/Project Damp/Unity Project/Project Damp/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":2, "ts":1715101282836267, "dur":11805, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715101282848076, "dur":3493, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715101282851570, "dur":3903, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715101282855474, "dur":2433, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715101282857908, "dur":17316, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715101282875783, "dur":26161, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.1.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1715101282875228, "dur":26718, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1715101282901971, "dur":2598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1715101282915786, "dur":197, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715101282904729, "dur":11384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":2, "ts":1715101282916516, "dur":3623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":2, "ts":1715101282920365, "dur":53858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1715101282974328, "dur":3108407, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715101282836080, "dur":11967, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715101282848050, "dur":545, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.1.2f1\\Editor\\Data\\il2cpp\\build\\deploy\\WindowsBase.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715101282848050, "dur":4231, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715101282852282, "dur":2189, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715101282854472, "dur":2211, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715101282856683, "dur":18385, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715101282875111, "dur":857, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715101282881398, "dur":2223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1715101282883906, "dur":17078, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.1.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1715101282883626, "dur":17360, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1715101282901014, "dur":2108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1715101282903427, "dur":38150, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.1.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1715101282903230, "dur":38350, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1715101282941623, "dur":3520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1715101282945294, "dur":6509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1715101282952055, "dur":2277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1715101282954528, "dur":3128102, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715101282836129, "dur":11928, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715101282848060, "dur":3551, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715101282851612, "dur":3413, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715101282855025, "dur":2545, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715101282857571, "dur":17680, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715101282875256, "dur":325, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1715101282880552, "dur":3093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1715101282883772, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1715101282884005, "dur":226, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715101282884374, "dur":3372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1715101282888391, "dur":27328, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.1.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715101282887857, "dur":27864, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715101282916157, "dur":10176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715101282926707, "dur":7264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1715101282939843, "dur":465, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715101282934147, "dur":6193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/level1.resS" }}
+,{ "pid":12345, "tid":4, "ts":1715101282953152, "dur":162, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715101282940549, "dur":12785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/level0.resS" }}
+,{ "pid":12345, "tid":4, "ts":1715101282953585, "dur":3129128, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715101282836317, "dur":11766, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715101282848088, "dur":4073, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715101282852162, "dur":2123, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715101282854286, "dur":2250, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715101282856536, "dur":18765, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715101282875302, "dur":269, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1715101282879137, "dur":6782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1715101282886216, "dur":16502, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.1.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1715101282886023, "dur":16697, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1715101282902730, "dur":156, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715101282902893, "dur":10101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1715101282913161, "dur":209153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1715101283122420, "dur":2960387, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715101282836402, "dur":11692, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715101282848098, "dur":3642, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715101282851740, "dur":2124, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715101282853864, "dur":2410, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715101282856275, "dur":1567, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715101282857842, "dur":17400, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715101282875247, "dur":223, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1715101282878605, "dur":7691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1715101282886504, "dur":204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1715101282886858, "dur":3681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1715101282890741, "dur":295097, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":6, "ts":1715101282890653, "dur":295187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp.exe" }}
+,{ "pid":12345, "tid":6, "ts":1715101283185864, "dur":1718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp.exe" }}
+,{ "pid":12345, "tid":6, "ts":1715101283187681, "dur":2895100, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715101282836571, "dur":11534, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715101282848109, "dur":3778, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715101282851887, "dur":2150, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715101282854038, "dur":2237, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715101282856275, "dur":18798, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715101282875078, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1715101282877869, "dur":5360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1715101282884700, "dur":222, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1715101282885643, "dur":2306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1715101282888621, "dur":226428, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.1.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101282888046, "dur":227005, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101283115210, "dur":4965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101283120255, "dur":2962496, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715101282836658, "dur":11459, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715101282848121, "dur":3436, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715101282851558, "dur":4081, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715101282855639, "dur":2407, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715101282858047, "dur":17053, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715101282875104, "dur":533, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1715101282880164, "dur":3151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1715101282884637, "dur":33008, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.1.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":8, "ts":1715101282883973, "dur":33674, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1715101282917678, "dur":3766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1715101282921574, "dur":5142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":8, "ts":1715101282926988, "dur":3398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":8, "ts":1715101282930623, "dur":2238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/resources.resource" }}
+,{ "pid":12345, "tid":8, "ts":1715101282933019, "dur":6288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1715101282939509, "dur":2426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1715101282942082, "dur":6655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/level0" }}
+,{ "pid":12345, "tid":8, "ts":1715101282949098, "dur":3079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1715101282952291, "dur":3130432, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715101282836789, "dur":11341, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715101282848134, "dur":3852, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715101282851986, "dur":2297, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715101282854283, "dur":2407, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715101282856691, "dur":18374, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715101282875076, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":9, "ts":1715101282878336, "dur":2067, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":9, "ts":1715101282880418, "dur":159, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win642\\Data\\boot.config" }}
+,{ "pid":12345, "tid":9, "ts":1715101282880619, "dur":11987, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win642\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":9, "ts":1715101282892610, "dur":172, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win642\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":9, "ts":1715101282894248, "dur":250, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playerec14637c-inputdata.json" }}
+,{ "pid":12345, "tid":9, "ts":1715101282880408, "dur":14274, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":9, "ts":1715101282896416, "dur":268, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715101282899052, "dur":249882, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":9, "ts":1715101283175978, "dur":124, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":9, "ts":1715101283175908, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/boot.config" }}
+,{ "pid":12345, "tid":9, "ts":1715101283176125, "dur":1573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/boot.config" }}
+,{ "pid":12345, "tid":9, "ts":1715101283177701, "dur":2905065, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101282836920, "dur":11222, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101282848145, "dur":3692, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101282851837, "dur":2068, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101282853906, "dur":2331, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101282856238, "dur":2196, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101282858435, "dur":16640, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101282875079, "dur":247, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":10, "ts":1715101282878199, "dur":5606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":10, "ts":1715101282883938, "dur":243, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1715101282884192, "dur":137, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101282885254, "dur":2056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1715101282887499, "dur":655, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1715101282891372, "dur":81, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101282889088, "dur":2409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1715101282891616, "dur":351, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":10, "ts":1715101282891979, "dur":110, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101282892918, "dur":25167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":10, "ts":1715101282918270, "dur":559, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101282924004, "dur":794, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101282918849, "dur":5977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":10, "ts":1715101282925037, "dur":722, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101282931110, "dur":125, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101282925766, "dur":5512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":10, "ts":1715101282931624, "dur":93, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101282931723, "dur":20660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1715101282952683, "dur":3129986, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715101282837041, "dur":11112, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715101282848157, "dur":3652, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715101282851810, "dur":2084, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715101282853895, "dur":2193, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715101282856088, "dur":2292, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715101282858381, "dur":16704, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715101282875731, "dur":25376, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.1.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":11, "ts":1715101282875090, "dur":26027, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1715101282901159, "dur":2655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1715101282904116, "dur":89363, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.1.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1715101282903919, "dur":89563, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1715101282993916, "dur":1897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1715101282996036, "dur":3086789, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715101282837205, "dur":10960, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715101282848167, "dur":615, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.1.2f1\\Editor\\Data\\il2cpp\\build\\deploy\\netstandard.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715101282848166, "dur":4522, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715101282852689, "dur":2218, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715101282854907, "dur":2400, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715101282857308, "dur":17985, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715101282875511, "dur":24272, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.1.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":12, "ts":1715101282875297, "dur":24488, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1715101282899818, "dur":1812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1715101282901928, "dur":478964, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.1.2f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715101282901739, "dur":479154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715101283380915, "dur":12137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715101283393123, "dur":2689673, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715101286100263, "dur":1650, "ph":"X", "name": "ProfilerWriteOutput" }
+,

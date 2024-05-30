@@ -1,0 +1,444 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1715101286692666, "dur":57493, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715101286750169, "dur":971, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715101286751173, "dur":96, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1715101286751269, "dur":496, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715101286751916, "dur":120, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1715101286752089, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/level0.resS" }}
+,{ "pid":12345, "tid":0, "ts":1715101286752245, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1715101286752488, "dur":107, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1715101286752632, "dur":99, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":0, "ts":1715101286752922, "dur":106, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1715101286753125, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101286753242, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/12288941508314304382.rsp" }}
+,{ "pid":12345, "tid":0, "ts":1715101286753503, "dur":103, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101286753611, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Photon3Unity3D.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101286753703, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/PhotonRealtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101286754016, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101286754159, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101286754383, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101286755242, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101286755672, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101286755835, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101286755926, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101286756161, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.GraphToolsFoundationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101286756961, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101286757511, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101286758528, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101286758852, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1715101286759409, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1715101286751792, "dur":8355, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715101286760149, "dur":550742, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715101287310893, "dur":358, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715101287311507, "dur":11663, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1715101286752270, "dur":7898, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715101286760172, "dur":2728, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715101286762901, "dur":2220, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715101286765122, "dur":2435, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715101286767557, "dur":18928, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715101286786500, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1715101286786567, "dur":198, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715101286786776, "dur":2010, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1715101286788787, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715101286788896, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715101286788984, "dur":14783, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715101286803768, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286805342, "dur":3320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286808667, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286808803, "dur":2693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286811498, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286811667, "dur":2746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286814416, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286814539, "dur":1966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286816507, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286816683, "dur":1795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286818481, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286818613, "dur":1765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286820380, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286820499, "dur":2126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286822628, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286822794, "dur":1962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286824758, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286824892, "dur":2294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286827189, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286827429, "dur":2675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286830108, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286830266, "dur":3361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286833740, "dur":207731, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101286833630, "dur":207843, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101287041487, "dur":65, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715101287043642, "dur":174, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715101287041557, "dur":2283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101287043843, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101287044020, "dur":115, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715101287046418, "dur":92, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715101287044141, "dur":2416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101287046561, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101287048646, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715101287046722, "dur":2004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101287048730, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101287048920, "dur":2196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101287051120, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101287051238, "dur":2133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101287053375, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101287053502, "dur":2303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101287055809, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101287055932, "dur":2009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101287057944, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101287058065, "dur":2188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101287060361, "dur":81559, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101287060256, "dur":81667, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101287141959, "dur":1717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715101287143679, "dur":167225, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715101286752456, "dur":7731, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715101286760191, "dur":2798, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715101286762990, "dur":2234, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715101286765225, "dur":2706, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715101286767931, "dur":18649, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715101286786584, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1715101286786732, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715101286786865, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1715101286786966, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715101286787076, "dur":174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1715101286787251, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715101286787360, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715101286787505, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715101286787614, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715101286787770, "dur":16020, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715101286803790, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286813525, "dur":2214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286815742, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286815886, "dur":2226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286818116, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286818250, "dur":1837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286820089, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286820228, "dur":2020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286822253, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286822386, "dur":1988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286824377, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286824500, "dur":2660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286827164, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286827297, "dur":3327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286830627, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286830747, "dur":4654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286835403, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286835611, "dur":2796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286838409, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286838595, "dur":3424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286842132, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286842267, "dur":2194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286844463, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.CommandStateObserverModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286844654, "dur":3163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.CommandStateObserverModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286847821, "dur":208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286848064, "dur":2545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286850612, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286850750, "dur":2257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286853010, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286853149, "dur":2160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286855311, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286858239, "dur":139, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715101286855472, "dur":3017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286858498, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286858633, "dur":2310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286861100, "dur":112949, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\CFXRRuntime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286860945, "dur":113106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/CFXRRuntime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286974081, "dur":7652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/CFXRRuntime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286981737, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Photon3Unity3D.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286981870, "dur":2215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Photon3Unity3D.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286984179, "dur":206434, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\PhotonRealtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101286984089, "dur":206526, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/PhotonRealtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101287190637, "dur":1630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/PhotonRealtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715101287192271, "dur":118628, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715101286752731, "dur":7491, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715101286760226, "dur":2717, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715101286762944, "dur":2336, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715101286765280, "dur":2819, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715101286768099, "dur":18524, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715101286786624, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1715101286786749, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715101286786884, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1715101286787019, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715101286787135, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1715101286787265, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715101286787364, "dur":351, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715101286787744, "dur":16053, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715101286803798, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715101286827010, "dur":4285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715101286831426, "dur":263946, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\PhotonUnityNetworking.Demos.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715101286831298, "dur":264076, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/PhotonUnityNetworking.Demos.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715101287095406, "dur":2458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/PhotonUnityNetworking.Demos.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715101287097873, "dur":213012, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715101286752268, "dur":7890, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715101286760162, "dur":26310, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715101286786500, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/12288941508314304382.rsp" }}
+,{ "pid":12345, "tid":4, "ts":1715101286786596, "dur":186, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715101286786791, "dur":2548, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker C:/Users/maste/University - Masters/1. Connected Games Development/Project Damp/Unity Project/Project Damp/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":4, "ts":1715101286789340, "dur":7013, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715101286803865, "dur":276290, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\PhotonUnityNetworking.Utilities.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715101286803748, "dur":276410, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/PhotonUnityNetworking.Utilities.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715101287080170, "dur":53, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715101287080229, "dur":2468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/PhotonUnityNetworking.Utilities.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715101287082699, "dur":228188, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715101286752362, "dur":7816, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715101286760181, "dur":2675, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715101286762857, "dur":2297, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715101286765155, "dur":2865, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715101286768020, "dur":18485, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715101286786507, "dur":280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1715101286786788, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715101286786892, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1715101286786999, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715101286787101, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101286787226, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715101286787334, "dur":350, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715101286787693, "dur":16102, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715101286803797, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101286829837, "dur":5449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101286835288, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101286835477, "dur":19639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101286855118, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/websocket-sharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101286855253, "dur":2331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/websocket-sharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101286857588, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101286857709, "dur":1846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101286859558, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101286859707, "dur":1981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101286861690, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101286861801, "dur":4476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101286866280, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101286866412, "dur":2839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101286869254, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101286869379, "dur":3132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101286872514, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101286872648, "dur":1702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101286874353, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101286874475, "dur":2086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101286876659, "dur":254206, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101286876564, "dur":254303, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101287130893, "dur":1870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715101287132766, "dur":178131, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715101286752535, "dur":7663, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715101286760203, "dur":2703, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715101286762907, "dur":2263, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715101286765170, "dur":2167, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715101286767338, "dur":1819, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715101286769157, "dur":17330, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715101286786515, "dur":156, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715101286786695, "dur":173, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715101286786877, "dur":198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1715101286787076, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715101286787199, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715101286787313, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715101286787420, "dur":319, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715101286787752, "dur":16048, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715101286803800, "dur":220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715101286825891, "dur":2542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715101286828531, "dur":268751, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\PhotonChat.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715101286828436, "dur":268848, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/PhotonChat.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715101287097329, "dur":201, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715101287097535, "dur":2355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/PhotonChat.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715101287099893, "dur":211001, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715101286752684, "dur":7527, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715101286760215, "dur":2399, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715101286762614, "dur":2164, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715101286764779, "dur":2435, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715101286767214, "dur":1863, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715101286769077, "dur":17432, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715101286786510, "dur":340, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1715101286786851, "dur":370, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715101286787233, "dur":534, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715101286787774, "dur":16024, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715101286803799, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286828117, "dur":2689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286830809, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286830933, "dur":3723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286834658, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286834805, "dur":2724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286837534, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286837672, "dur":1889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286839564, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286839702, "dur":2478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286842182, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286842317, "dur":1987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286844306, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286844427, "dur":2016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286846445, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286846624, "dur":1968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286848595, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286848729, "dur":4618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286853351, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286853498, "dur":2261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286855761, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286855895, "dur":2192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286858089, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286858231, "dur":2642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286860876, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286864344, "dur":73, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715101286860994, "dur":3457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286864456, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286865133, "dur":3310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286868448, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286868638, "dur":92, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715101286868736, "dur":2528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286871448, "dur":314487, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\PhotonUnityNetworking.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101286871278, "dur":314659, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/PhotonUnityNetworking.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101287185960, "dur":1626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/PhotonUnityNetworking.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715101287187589, "dur":123314, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715101286753002, "dur":7240, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715101286760246, "dur":2748, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715101286762995, "dur":2515, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715101286765511, "dur":2540, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715101286768052, "dur":18455, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715101286786508, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1715101286786689, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715101286786814, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1715101286786924, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715101286787057, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715101286787206, "dur":279, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715101286787485, "dur":54, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715101286787545, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715101286787671, "dur":16097, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715101286803769, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715101286812671, "dur":2239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715101286814913, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715101286815052, "dur":1852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715101286817019, "dur":257028, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715101286816906, "dur":257143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715101287074080, "dur":2784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715101287076868, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715101287077025, "dur":1762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715101287078791, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715101287078922, "dur":3327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715101287082254, "dur":204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715101287082482, "dur":2396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715101287084881, "dur":226008, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715101286752890, "dur":7344, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715101286760238, "dur":2647, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715101286762886, "dur":2281, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715101286765167, "dur":2835, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715101286768003, "dur":18486, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715101286786501, "dur":290, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":9, "ts":1715101286786792, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715101286786922, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286787100, "dur":215, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715101286787327, "dur":196, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715101286787534, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715101286787644, "dur":16144, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715101286803789, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286825093, "dur":2945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286828041, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286828197, "dur":5350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286833554, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286833689, "dur":2342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286836033, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286836170, "dur":2708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286838880, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286839018, "dur":2929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286841951, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286842179, "dur":1915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286844098, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286844222, "dur":2124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286846350, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286846489, "dur":2028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286848520, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286848647, "dur":4341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286852990, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286853128, "dur":2230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286855361, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286855479, "dur":6703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286862184, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286862339, "dur":3539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286865881, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286866046, "dur":3514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286869562, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286869711, "dur":3217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286872930, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286873064, "dur":1660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286874726, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.GraphToolsFoundationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286874883, "dur":2133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.GraphToolsFoundationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286877019, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286877162, "dur":2189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286879459, "dur":218598, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101286879354, "dur":218705, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101287098087, "dur":2977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715101287101067, "dur":209833, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101286753115, "dur":7138, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101286760257, "dur":2756, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101286763014, "dur":2328, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101286765343, "dur":2732, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101286768075, "dur":18428, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101286786507, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1715101286786690, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101286786826, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1715101286786950, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101286787062, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp.exe" }}
+,{ "pid":12345, "tid":10, "ts":1715101286787168, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101286787294, "dur":184, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101286787531, "dur":163, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101286787710, "dur":16081, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101286803793, "dur":308, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715101286828854, "dur":6051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715101286834908, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715101286835060, "dur":14903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715101286849967, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715101286850093, "dur":2125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715101286852221, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715101286852387, "dur":2107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715101286854603, "dur":275064, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715101286854496, "dur":275173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715101287129682, "dur":172, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715101287129860, "dur":1932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715101287131796, "dur":179097, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715101286753261, "dur":7003, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715101286761857, "dur":502, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.1.2f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.AppContext.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715101286760269, "dur":2852, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715101286763121, "dur":2221, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715101286765342, "dur":2880, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715101286768222, "dur":18271, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715101286786501, "dur":199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":11, "ts":1715101286786702, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715101286786857, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1715101286787035, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715101286787164, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715101286787286, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715101286787398, "dur":297, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715101286787735, "dur":16013, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715101286803749, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715101286805151, "dur":3532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715101286808685, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715101286808814, "dur":2641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715101286811458, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715101286811593, "dur":2062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715101286813662, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715101286813804, "dur":2261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715101286816199, "dur":202722, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715101286816067, "dur":202857, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715101287018955, "dur":4504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715101287023661, "dur":112939, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715101287023463, "dur":113139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715101287136626, "dur":1785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715101287138415, "dur":172493, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715101286753349, "dur":6936, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715101286760286, "dur":2580, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715101286762867, "dur":2326, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715101286765193, "dur":2347, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715101286767541, "dur":1191, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715101286768733, "dur":17777, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715101286786511, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1715101286786677, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715101286786806, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1715101286786974, "dur":131, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715101286787113, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1715101286787234, "dur":174, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715101286787423, "dur":172, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715101286787606, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715101286787713, "dur":16080, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715101286803795, "dur":357, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715101286830860, "dur":3548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715101286834413, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715101286837833, "dur":65, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715101286834588, "dur":3346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715101286838048, "dur":471028, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715101286837937, "dur":471141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715101287309101, "dur":1742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/Nautilus_FinalBuild/Project Damp_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715101287328127, "dur":2818, "ph":"X", "name": "ProfilerWriteOutput" }
+,

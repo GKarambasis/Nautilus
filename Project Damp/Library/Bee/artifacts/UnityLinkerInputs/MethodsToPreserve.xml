@@ -1,0 +1,81 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="AddScore">
+			<method name="AddScrap50"/>
+			<method name="AddUpgrade1"/>
+			<method name="AddUpgrade2"/>
+			<method name="AddUpgrade3"/>
+			<method name="CallSaveData"/>
+		</type>
+		<type fullname="CreateRoom">
+			<method name="OnClick_CreateRoom"/>
+		</type>
+		<type fullname="GameManager">
+			<method name="LeaveRoom"/>
+			<method name="LeaveRoom"/>
+		</type>
+		<type fullname="LogIn">
+			<method name="CallLogin"/>
+			<method name="CompleteLogin"/>
+			<method name="UpdateAccount"/>
+			<method name="UpdateAccount"/>
+			<method name="UpdateAccount"/>
+			<method name="UpdateAccount"/>
+			<method name="VerifyInputs"/>
+			<method name="VerifyInputs"/>
+		</type>
+		<type fullname="MainMenuScript">
+			<method name="MenuBackButton"/>
+			<method name="MenuBackButton"/>
+			<method name="MenuBackButton"/>
+			<method name="MenuBackButton"/>
+			<method name="MenuBackButton"/>
+			<method name="MenuBackButton"/>
+			<method name="MenuBackButton"/>
+			<method name="MenuBackButton"/>
+			<method name="MenuBackButton"/>
+			<method name="MenuButton"/>
+			<method name="MenuButton"/>
+			<method name="MenuButton"/>
+			<method name="MenuButton"/>
+			<method name="QuitButton"/>
+		</type>
+		<type fullname="PlayerListingMenu">
+			<method name="OnClick_LeaveRoom"/>
+			<method name="OnClick_StartGame"/>
+		</type>
+		<type fullname="PlayerTeamManager">
+			<method name="OnClick_AddUpgrade"/>
+			<method name="OnClick_AddUpgrade"/>
+			<method name="OnClick_AddUpgrade"/>
+			<method name="OnClick_AddUpgrade"/>
+			<method name="OnClick_AddUpgrade"/>
+			<method name="OnClick_AddUpgrade"/>
+			<method name="OnClick_AddUpgrade"/>
+			<method name="OnClick_AddUpgrade"/>
+			<method name="OnClick_AddUpgrade"/>
+			<method name="OnClick_AddUpgrade"/>
+			<method name="OnClick_AddUpgrade"/>
+			<method name="OnClick_AddUpgrade"/>
+			<method name="OnClick_JoinTeam"/>
+			<method name="OnClick_JoinTeam"/>
+			<method name="OnClick_JoinTeam"/>
+			<method name="OnClick_JoinTeam"/>
+			<method name="OnClick_LeaveRoomAndTeam"/>
+		</type>
+		<type fullname="Registration">
+			<method name="CallRegister"/>
+			<method name="CompleteRegistration"/>
+			<method name="VerifyInputs"/>
+			<method name="VerifyInputs"/>
+		</type>
+		<type fullname="RoomListing">
+			<method name="OnClick_JoinRoom"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+		</type>
+	</assembly>
+</linker>
