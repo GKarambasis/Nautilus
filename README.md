@@ -1,9 +1,14 @@
 # Nautilus
 2D Team-based Free-For-All Extraction Shooter set in the Depths of the Pacific Ocean
 
-<a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/ConceptArt1.jpeg" alt="Logo" width="80" height="80">
+<div align="center">
+<a href="https://georgekarambasis.wixsite.com/portfolio">
+    <img src="images/ConceptArt1.jpeg" alt="Logo" width="1600" height="640">
 </a>
+<a href="https://georgekarambasis.wixsite.com/portfolio">
+    <img src="images/ConceptArt3.jpeg" alt="Logo" width="1600" height="640">
+</a>
+</div>
 
 Feel free to look into the development process by checking out my [Development Blog](https://cgdprogressblog.blogspot.com)
 
