@@ -5,22 +5,22 @@ Find the built Project under: Project Damp\Builds\Nautilus_FinalBuild
 
 
 # Controls
-Diver Controls
-Movement: A & D
-Climb Ladder: Space
-Operate Station: F
-Use Item in Inventory: Space
-Remove Item From Inventory: E
+## Diver Controls
+* Movement: A & D
+* Climb Ladder: Space
+* Operate Station: F
+* Use Item in Inventory: Space
+* Remove Item From Inventory: E
 
 
-Submarine Controls
-Movement: WASD
-Rotation: Q & E
+## Submarine Controls
+* Movement: WASD
+* Rotation: Q & E
 
 
-Turret Controls
-Rotation: Q & E
-Shoot: W
+## Turret Controls
+* Rotation: Q & E
+* Shoot: W
 
 
 GAME VICTORY CONDITIONS
