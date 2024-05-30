@@ -3,10 +3,10 @@
 
 <div align="center">
 <a href="https://georgekarambasis.wixsite.com/portfolio">
-    <img src="images/ConceptArt1.jpeg" alt="Logo" width="1600" height="640">
+    <img src="images/ConceptArt1.jpeg" alt="Logo" width="800" height="320">
 </a>
 <a href="https://georgekarambasis.wixsite.com/portfolio">
-    <img src="images/ConceptArt3.jpeg" alt="Logo" width="1600" height="640">
+    <img src="images/ConceptArt3.jpeg" alt="Logo" width="800" height="320">
 </a>
 </div>
 
