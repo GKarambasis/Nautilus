@@ -23,7 +23,7 @@ Find the built Project under: Project Damp\Builds\Nautilus_FinalBuild
 * Shoot: W
 
 
-GAME VICTORY CONDITIONS
-Search through the map for the Extraction Beacon. (Pirate Coin)
-Bring it to the Teleport Zone. (Top of the Map)
-Use it when in the teleport zone to extract!
+## Victory Conditions
+* Search through the map for the Extraction Beacon. (Pirate Coin)
+* Bring it to the Teleport Zone. (Top of the Map)
+* Use it when in the teleport zone to extract!
